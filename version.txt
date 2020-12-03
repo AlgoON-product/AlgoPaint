@@ -1,1 +1,1 @@
-{"sw":1.24,"size":6.81}
+{"algopaint":{"sw":2.02,"size":17.15,"esp":true,"nex":false}}
